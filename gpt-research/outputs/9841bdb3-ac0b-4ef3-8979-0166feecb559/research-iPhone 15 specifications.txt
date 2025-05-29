@@ -1,0 +1,79 @@
+Information gathered from url https://www.techradar.com/news/iphone-15-specs: Based on the text, the predicted specifications for the iPhone 15 include:
+
+- Chipset: A16 Bionic
+- RAM and Storage: 6GB of RAM, storage options of 128GB, 256GB, or 512GB.
+- Display: 6.1-inch OLED display with a resolution of around 1179 x 2556, with a Dynamic Island instead of a notch.
+- Battery: Approximately 3,279mAh, possible charging via USB-C.
+- Camera: 48MP main sensor, 12MP ultra-wide and 12MP selfie camera.
+
+For the iPhone 15 Plus:
+- Similar specifications as iPhone 15 but with a larger display.
+
+For the iPhone 15 Pro:
+- Possible A17 Bionic chipset, possibly 8GB of RAM.
+- USB-C port, potential support for reverse wireless charging.
+- Storage options starting at 128GB and going up to 1TB.
+- Camera setup: 48MP wide, 12MP ultra-wide, 12MP telephoto, and 12MP selfie camera.
+
+For the iPhone 15 Ultra or iPhone 15 Pro Max:
+- Similar A17 Bionic chipset and 8GB of RAM as the iPhone 15 Pro.
+- Storage capacity starting at 256GB.
+- Larger, brighter, and higher resolution display compared to the iPhone 15 Pro.
+- Improved battery size and camera specifications, including a periscope camera with around a 6x optical zoom.
+
+It is important to note that these specifications are based on rumors and leaks and may not be completely accurate.
+Information gathered from url https://www.techradar.com/phones/iphone/iphone-15-series-key-upgrades-at-a-glance: The text states that it does not provide specific information about the iPhone 15 specifications. It mentions that detailed specs, features, pricing, and availability information for all four phones in the iPhone 15 series can be found in specific rumor hubs on the website. Therefore, there is no factual information, numbers, or stats available in the text regarding the iPhone 15 specifications.
+Information gathered from url https://www.techradar.com/phones/iphone/iphone-15-models: Based on the information provided in the text, the specifications for the iPhone 15 models are as follows:
+
+1. iPhone 15:
+- Dynamic Island instead of a notch
+- 48MP main camera
+- USB-C port
+- 3,877mAh battery
+- A16 Bionic chipset
+- Curved edges and matte rear glass panel (possibly similar to iPhone 14 Pro)
+
+2. iPhone 15 Plus:
+- Larger screen size of 6.7 inches (similar to current Plus models)
+- Dynamic Island
+- USB-C port
+- 48MP main camera
+- A16 Bionic chipset
+- Larger battery of 4,912mAh
+
+3. iPhone 15 Pro:
+- USB-C port
+- Customizable Action Button
+- Titanium frame
+- Thinner bezels
+- A17 Bionic chipset
+- 3,650mAh battery
+- 6.1-inch 120Hz OLED screen
+- Camera setup similar to iPhone 14 Pro: 48MP main camera, 12MP ultra-wide, 12MP telephoto, and 12MP selfie camera
+
+4. iPhone 15 Pro Max (or possibly iPhone 15 Ultra):
+- Larger screen size of 6.7 inches (similar to iPhone 15 Pro)
+- A17 Bionic chipset
+- Titanium frame
+- USB-C port
+- Larger battery of 4,852mAh
+- Possible additional camera changes, such as a periscope camera for longer-range optical zoom
+
+It is unclear whether there will be an iPhone 15 Ultra, as some sources suggest it may be named iPhone 15 Pro Max instead. The iPhone 15 Ultra, if it exists, could have additional features or improvements over the iPhone 15 Pro.
+Information gathered from url https://www.imore.com/iphone/iphone-15/iphone-15-and-iphone-15-pro-specs: Based on the information provided in the text, the rumored specifications for the iPhone 15 are as follows:
+
+1. Display: The iPhone 15 is expected to have a 6.1-inch display, while the iPhone 15 Plus is rumored to have a larger 6.7-inch display. Both models are expected to have a 60Hz refresh rate.
+
+2. Battery: The battery sizes for the iPhone 15 and iPhone 15 Plus are expected to be similar to previous models. The iPhone 15 may have a 3,279mAh battery, while the iPhone 15 Plus may have a 4,323mAh battery.
+
+3. Processor: Both models are likely to be powered by the A16 Bionic chip.
+
+4. RAM: The iPhone 15 and iPhone 15 Plus are expected to have 6GB of RAM.
+
+5. Camera: The new iPhones may feature a 48-megapixel camera similar to the iPhone 14 Pro. They are also expected to have a 12-megapixel ultrawide camera and a 12-megapixel FaceTime camera.
+
+6. Charging and Data Port: It is rumored that the iPhone 15 will move away from the Lightning port and use a USB-C charging and data port for the first time.
+
+7. Storage: The iPhone 15 and iPhone 15 Plus are expected to come in 128GB, 256GB, 512GB, and 1TB storage options.
+
+It's important to note that these specifications are based on rumors and should be taken with a grain of salt until confirmed by Apple. The next Apple event is scheduled for September 12th, where more information about the iPhone 15 is expected to be revealed.

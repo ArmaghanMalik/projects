@@ -1,0 +1,33 @@
+Information gathered from url https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/: The iPhone 15 introduces several new features, including:
+
+1. Color-infused back glass with a textured matte finish and contoured edge on the aluminum enclosure.
+2. 48MP Main camera with a 2x Telephoto option, providing users with three optical zoom levels and improving portraits with sharper detail, more vivid colors, and enhanced low-light performance.
+3. A16 Bionic chip for powerful performance and computational photography capabilities.
+4. Expanded safety capabilities like Crash Detection and Emergency SOS via satellite.
+5. Available in five colors: pink, yellow, green, blue, and black.
+6. Pre-orders start on September 15, with availability beginning on September 22.
+
+Additional features mentioned in the provided text:
+1. Roadside Assistance via satellite: Users can connect to AAA when they have car trouble and cellular and Wi-Fi coverage are not available. The service transmits the user's information to AAA via satellite, allowing them to message directly with the user and dispatch help to their exact location. This service is included for free for two years.
+2. Powerful Connection Capabilities: USB-C connector for charging iPhone, Mac, iPad, and the updated AirPods Pro (2nd generation). Users can also charge AirPods or Apple Watch directly from the iPhone using the USB-C connector. Both models support MagSafe and future Qi2 chargers for wireless charging.
+3. Enhanced audio quality and 5G experience: Improved audio quality on phone calls, including those made on FaceTime or third-party apps, and a high-quality, superfast 5G experience.
+4. eSIM support: The iPhone 15 models have an eSIM, offering a more convenient and secure alternative to a physical SIM card. Users can stay connected through affordable international roaming plans or purchase prepaid eSIM plans in over 50 countries and regions.
+5. iOS 17: The iPhone 15 and iPhone 15 Plus come with iOS 17, introducing various updates including a new app called Journal, improvements to autocorrect and Dictation, enhanced privacy protections for Private Browsing in Safari, password and passkey sharing with iCloud Keychain, and more.
+6. Environmentally-friendly design: The iPhone 15 models use more recycled content, including 100% recycled cobalt in the battery, 100% recycled copper in various components, 75% recycled aluminum in the enclosure, 100% recycled rare earth elements in magnets, and 100% recycled gold in the USB-C connector. The packaging is fiber-based, aiming to eliminate plastic completely by 2025. Apple has also replaced leather in new iPhone accessories with sustainable alternatives.
+
+Please note that the text does not provide any specific numbers or statistics regarding the new features of iPhone 15.
+Information gathered from url https://www.tomsguide.com/news/iphone-15: Based on the given text, the iPhone 15 introduces several new features and improvements:
+
+1. Design: The iPhone 15 has rounded edges on the back and front with a matte finish and comes in five color options. It features IP68 dust and water resistance and uses recycled cobalt and aluminum in its battery and frame, respectively.
+
+2. Dynamic Island: The Dynamic Island, first introduced on the iPhone 14 Pro, is present on all iPhone 15 models. It provides users with extra display pixels and includes adaptive widgets unique to the Island. The display brightness has been boosted for easier use in direct sunlight.
+
+3. USB-C: The iPhone 15 replaces the Lightning port with a USB-C port, making it compatible with other devices such as iPads, Macs, and Android phones. The USB-C on the iPhone 15 Pro offers faster data transfer speeds. It can also be used to charge accessories like Apple Watch and AirPods Pro with the new USB-C charging case.
+
+4. Cameras: All iPhone 15 models feature a 48MP main camera, offering improved image quality compared to previous non-Pro models. The camera includes a 24MP mode for increased detail and a 2x lossless zoom mode. Software enhancements have been made to improve HDR, skin color accuracy, and the Portrait mode.
+
+5. Performance: The iPhone 15 is powered by the A16 Bionic chipset, which enhances performance across CPU, GPU, and machine learning benchmarks. The battery life is claimed to last all day, with the iPhone 15 Plus having a longer battery life due to its larger battery. Wireless charging is now at 15W, and storage options range from 128GB to 512GB.
+
+6. Software and special features: The iPhone 15 runs on iOS 17 and introduces enhanced ultra-wideband connectivity for Precision Finding. It also enhances Emergency SOS via Satellite with a roadside assistance mode and includes a new machine learning system to improve call clarity.
+
+However, it's worth noting that the author of the text mentions that they will provide their review of the iPhone 15 at a later date, and there is no specific information about the new features of the iPhone 15 series mentioned in the provided text.
